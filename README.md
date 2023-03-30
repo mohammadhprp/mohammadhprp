@@ -1,7 +1,7 @@
 ### Hi there 👋  
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: [Telegram](https://t.me/Mohammadhprp) or [Email](mailto:mohammadhprp@gmail.com)
-- 😍 You can find more about me on [My Website](https://mohammadhprp.github.io/)
+- 😍 You can find more about me on [My Website](https://mohammadhprp.ir/)
 - 🔭 I’m currently working on [Online Taviz](https://onlinetaviz.ir/)
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
