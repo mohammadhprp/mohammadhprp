@@ -1,7 +1,8 @@
 ### Hi there 👋  
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [Telegram](https://t.me/Mohammadhprp) or [Email](mailto:mohammadhprp@gmail.com)
 - 😍 You can find more about me on [My Website](https://mohammadhprp.ir/)
+- 🔭 I’m currently working on [Cozy Corner](https://cozycorner.ir/)
 
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
